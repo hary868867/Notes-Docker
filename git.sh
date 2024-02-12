@@ -1,6 +1,5 @@
 #!/bin/bash
-
-repository = docker
+repository = 'docker'
 git remote remove origin
 commit='first push of everything'
 url='https://github.com/hary8678/$repository.git'
