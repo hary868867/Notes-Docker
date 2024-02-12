@@ -2,7 +2,7 @@
 
 git remote remove origin
 commit='second push of everything'
-reponame='Docker'
+#reponame=''
 url="https://github.com/hary8678/Notes-$reponame.git"
 git init
 git add .
