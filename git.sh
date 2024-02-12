@@ -1,8 +1,8 @@
 #!/bin/bash
-repository='docker'
+reponame='Docker'
 git remote remove origin
 commit='first push of everything'
-url='https://github.com/hary8678/$1.git'
+url='https://github.com/hary8678/Notes-$reponame.git'
 git init
 git add .
 git commit -m "$commit"
